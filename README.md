@@ -1,2 +1,2 @@
 # music-player-ic
-i havent learnt it complete
+i havent learnt it completely
